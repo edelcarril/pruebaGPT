@@ -25,6 +25,7 @@ body {
   align-items: center;
   text-align: center;
   background-color: #e63946;
+  min-height: 400px;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
