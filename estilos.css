@@ -63,6 +63,19 @@ body {
   background-image: url("https://i.imgur.com/03dNlU6.png");
 }
 
+table {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+td {
+  height: 80px;
+  width: 80px;
+  font-size: 50px;
+}
+
+
 .cell[data-value="O"]::before {
   background-image: url("https://i.imgur.com/9og9cBo.png");
 }
